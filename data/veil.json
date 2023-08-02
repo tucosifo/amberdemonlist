@@ -59,6 +59,14 @@
             "link": "https://youtu.be/egSl9tJfVWs",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "PortableToilet",
+            "link": "https://youtu.be/bCmjGAQ599U",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
+        
     ]
 }
