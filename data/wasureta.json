@@ -721,9 +721,9 @@
         },
         {
             "user": "zzzentic",
-            "link": "https://www.youtube.com/watch?v=W7lqVGb2mWk",
-            "percent": 58,
-            "hz": 300
+            "link": "https://youtu.be/4BHp_4NNinU",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "reyes",
@@ -802,12 +802,6 @@
             "link": "https://youtu.be/10hfAuJl8-g",
             "percent": 100,
             "hz": 300
-        },
-        {
-            "user": "zzzentic",
-            "link": "https://www.youtube.com/watch?v=4BHp_4NNinU",
-            "percent": 100,
-            "hz": 360
         }
             
         
