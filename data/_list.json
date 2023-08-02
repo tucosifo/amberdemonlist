@@ -15,6 +15,7 @@
     "neutra",
     "africa_circles",
     "oblivion",
+    "critical_heat",
     "solar_flare",
     "random_access_memory",
     "sigma",
@@ -55,6 +56,7 @@
     "omega_interface",
     "molten_core",
     "call_me_maybe",
+    "chromatic_haze",
     "celestial_force",
     "qoueo",
     "azure_flare",
@@ -120,7 +122,6 @@
     "cybernetic_crescent",
     "rage",
     "firework",
-    "congregation",
     "explicit",
     "hephaestus",
     "beztana_vortex",
@@ -156,6 +157,5 @@
     "paroxysm",
     "molten_gear",
     "avalanche",
-    "stereo_demoness",
-    "rgb"
+    "stereo_demoness"
 ]
