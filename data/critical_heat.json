@@ -8,6 +8,11 @@
     "showcase": "",
     "percentToQualify": 55,
     "records": [
-        
+        {
+            "user": "Diverse",
+            "link": "https://youtu.be/gTFGpf66HNE",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
