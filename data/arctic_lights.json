@@ -217,7 +217,12 @@
             "link": "https://www.youtube.com/watch?v=JK_3IUvL-O0",
             "percent": 100,
             "hz": 321
-        }
-    
+        },
+        {
+            "user": "Dwoink",
+            "link": "https://youtu.be/feoIeFs-LfI",
+            "percent": 100,
+            "hz": 360
+        },
     ]
 }
