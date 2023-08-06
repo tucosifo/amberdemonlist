@@ -278,6 +278,13 @@
             "link": "https://youtu.be/JoSVZqR4OdQ",
             "percent": 59,
             "hz": 360
+        },
+        {
+            "user": "Black puma",
+            "link": "https://youtu.be/wy98QOcs5aE",
+            "percent": 78,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
