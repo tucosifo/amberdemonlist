@@ -66,6 +66,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Captain Kitty",
+            "link": "https://youtu.be/IAgkEJ_FzTQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
         
     ]
