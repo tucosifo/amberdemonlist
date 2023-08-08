@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/Exy4w5Rm3Zo",
     "showcase": "https://youtu.be/0ddvaNwuIbQ",
     "percentToQualify": 60,
-    "records": []
+    "records": [
+        {
+            "user": "KylashTheKiller",
+            "link": "https://youtu.be/LzV2G42QhV0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
