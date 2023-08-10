@@ -285,6 +285,12 @@
             "percent": 78,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "ZerniasX",
+            "link": "https://youtu.be/qYMVJyKQ1mo",
+            "percent": 100,
+            "hz": 360,
         }
     ]
 }
