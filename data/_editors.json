@@ -6,8 +6,13 @@
     },
     {
         "role": "owner",
-        "name": "Davine_007",
-        "link": "https://www.youtube.com/channel/UCdFZfQWXHkJkofMyorv0ccw"
+        "name": "JustCrust",
+        "link": "#"
+    },
+    {
+        "role": "owner",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
     },
     {
         "role": "admin",
@@ -15,44 +20,39 @@
         "link": "https://youtube.com/channel/UC_iEmvCmkuJWqoRbGM49GOA"
     },
     {
-        "role": "admin",
-        "name": "Ryoui",
-        "link": "https://www.youtube.com/channel/UCbon_JIcGDqic5lJj3-8L-w"
-    },
-    {
-        "role": "admin",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "helper",
-        "name": "homegrowntag",
-        "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
-    },
-    {
-        "role": "helper",
+        "role": "seniormod",
         "name": "SarcasticMuch",
         "link": "https://www.youtube.com/channel/UCH4iSascx58Bfue2cfpWKJQ"
     },
     {
-        "role": "helper",
+        "role": "seniormod",
+        "name": "sorrym8",
+        "link": "#"
+    },
+    {
+        "role": "mod",
+        "name": "homegrowntag",
+        "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
+    },
+    {
+        "role": "mod",
         "name": "KylashTheKiller",
         "link": "https://youtube.com/@KylashTheKiller"
     },
     {
-        "role": "helper",
-        "name": "RealBigFlopa",
-        "link": "https://www.youtube.com/channel/UCnbbHfbjQpVib5NqYTNIe-A"
-    },
-    {
-        "role": "helper",
+        "role": "mod",
         "name": "lucap123",
         "link": "https://www.youtube.com/@lucap123gd8"
     },
     {
-        "role": "helper",
+        "role": "mod",
         "name": "srus",
         "link": "https://www.youtube.com/channel/UCZWCsnRMKs7VSyO094YeyJw"
+    },
+    {
+        "role": "mod",
+        "name": "urban",
+        "link": "https://www.youtube.com/channel/UCV3Y98U07Opb6E9V__mrBNQ"
     },
     {
         "role": "dev",
@@ -63,5 +63,10 @@
         "role": "dev",
         "name": "Emonadeo",
         "link": "https://github.com/Emonadeo"
+    },
+    {
+        "role": "dev",
+        "name": "KrisGra",
+        "link": "https://www.youtube.com/channel/UCrB80p9IxnDthH551FpqlwQ"
     }
 ]
