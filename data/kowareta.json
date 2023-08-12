@@ -1385,6 +1385,12 @@
             "percent": 60,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Kestin",
+            "link": "https://www.youtube.com/watch?v=AtFKE-MvT6c",
+            "percent": 100,
+            "hz": 288
         }
             
     ]
