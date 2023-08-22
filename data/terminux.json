@@ -8,5 +8,12 @@
     "showcase": "",
     "percentToQualify": 60,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "LzKlauss",
+            "link": "https://www.youtube.com/watch?v=VPiYuXTMgms",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
