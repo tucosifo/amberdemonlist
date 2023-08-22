@@ -609,6 +609,12 @@
             "link": "https://www.youtube.com/watch?v=doOC2up2-oE",
             "percent": 100,
             "hz": 240
-        }   
+        },
+        {
+            "user": "Xelonai",
+            "link": "https://www.youtube.com/watch?v=mdcy3VMkU4g",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
