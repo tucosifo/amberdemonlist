@@ -981,12 +981,6 @@
             "hz": 360
         },
         {
-            "user": "Disswave",
-            "link": "https://youtu.be/nrFc4gU5Ln4",
-            "percent": 70,
-            "hz": 360
-        },
-        {
             "user": "boylighty",
             "link": "https://www.youtube.com/watch?v=RwawLTI2by0",
             "percent": 100,
@@ -1253,6 +1247,12 @@
             "link": "https://youtu.be/LzV2G42QhV0",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Disswave",
+            "link": "https://youtu.be/UnzVucXxTNo",
+            "percent": 100,
+            "hz": 360
         }
     
     
