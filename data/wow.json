@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/Pl1gMdMWKiY",
     "percentToQualify": 46,
     "password": "Free to copy",
-    "records": []
+    "records": [
+        {
+            "user": "LzKlauss",
+            "link": "https://youtu.be/fheWxCDOrvM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
