@@ -1259,8 +1259,12 @@
             "link": "https://www.youtube.com/watch?v=zmsSAgcS9Cg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "blindtravel",
+            "link": "https://youtu.be/nPyPAuMU390",
+            "percent": 100,
+            "hz": 360
         }
-    
-    
     ]
 }

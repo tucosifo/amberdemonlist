@@ -1454,6 +1454,18 @@
             "link": "https://www.youtube.com/watch?v=FnrDyPm6g5I",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Smurdy",
+            "link": "https://www.youtube.com/watch?v=BXBFiP-b0sw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sanctum",
+            "link": "https://youtu.be/QvKzV6PEmkk?si=SVQkwaAUZ_wsVoZp",
+            "percent": 100,
+            "hz": 120
         }
     ] 
 }
