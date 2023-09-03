@@ -808,8 +808,12 @@
             "link": "https://youtu.be/1VnLTNl7im8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "GDFayo",
+            "link": "https://www.youtube.com/watch?v=tAUfd9HrFyM&t=1s&ab_channel=GDFayo",
+            "percent": 100,
+            "hz": 360
         }
-            
-        
     ]
 }
