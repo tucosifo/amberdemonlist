@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=vzCpVusDvT0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "snickles",
+            "link": "https://youtu.be/--nNxSSdTzI?si=Bpl5qex2F0lPTM70",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
