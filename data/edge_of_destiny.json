@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=TCYf5refr_g&list=PLz5PaFxQhJgUnbWN34stpcf7vYkRxfpGr&index=3",
     "showcase": "https://www.youtube.com/watch?v=PdRmUdwi-0c",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Nutbasta",
+            "link": "https://youtu.be/Qvm9C1SmOMk?si=gTC2ctk20ERUwCtL",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
 }
