@@ -760,6 +760,12 @@
             "link": "https://www.youtube.com/watch?v=dXRgE9cve4w&t=6s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "AlPhaMe",
+            "link": "https://youtu.be/xvk-wdgIhi4?si=bkyru_pdqbotucc-",
+            "percent": 75,
+            "hz": 120
         }
             
     ]
