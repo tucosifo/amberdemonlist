@@ -70,14 +70,14 @@ Can i submit Multiple levels on 1 video?
 ## Owners:
 
 - Microwaveee
-- Davine_007
+- JustCrust
+- Prometheus
 
 ---
 
 ## List Admins:
 
 - TravelChimp
-- Prometheus
 - Ryoui
 
 ## Repo Maintainers:
