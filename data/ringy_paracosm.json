@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/PlPFkDAx2o0",
     "showcase": "https://www.youtube.com/watch?v=gGlPK2VTNYg",
     "percentToQualify": 55,
-    "records": []
+    "records": [
+        {
+            "user": "Diverse",
+            "link": "https://youtu.be/FP7jlvyUJVE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
