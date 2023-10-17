@@ -11,6 +11,7 @@ const roleIconMap = {
 	admin: 'user-gear',
 	seniormod: 'user-shield',
 	mod: 'user-lock',
+    trial: 'user-check',
 	dev: 'code'
 };
 
