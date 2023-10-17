@@ -15,19 +15,19 @@
         "link": "https://www.youtube.com/c/PrometheusAlt"
     },
     {
-        "role": "seniormod",
-        "name": "SarcasticMuch",
-        "link": "https://www.youtube.com/channel/UCH4iSascx58Bfue2cfpWKJQ"
+        "role": "admin",
+        "name": "KylashTheKiller",
+        "link": "https://youtube.com/@KylashTheKiller"
     },
     {
-        "role": "seniormod",
+        "role": "admin",
         "name": "SorryM8",
         "link": "#"
     },
     {
         "role": "seniormod",
-        "name": "KylashTheKiller",
-        "link": "https://youtube.com/@KylashTheKiller"
+        "name": "SarcasticMuch",
+        "link": "https://www.youtube.com/channel/UCH4iSascx58Bfue2cfpWKJQ"
     },
     {
         "role": "mod",
@@ -43,6 +43,36 @@
         "role": "mod",
         "name": "urban",
         "link": "https://www.youtube.com/channel/UCV3Y98U07Opb6E9V__mrBNQ"
+    },
+    {
+        "role": "trial",
+        "name": "Willow",
+        "link": "https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw"
+    },
+    {
+        "role": "trial",
+        "name": "Pani",
+        "link": "#"
+    },
+    {
+        "role": "trial",
+        "name": "Wiktor",
+        "link": "https://www.youtube.com/channel/UCD9Q_xZmonsNc3FkQ_I1qTw"
+    },
+    {
+        "role": "trial",
+        "name": "afpnox",
+        "link": "#"
+    },
+    {
+        "role": "trial",
+        "name": "lermor",
+        "link": "#"
+    },
+    {
+        "role": "trial",
+        "name": "snickles",
+        "link": "https://www.youtube.com/channel/UCkwR22BGmJU1CVPPBo7ES0A"
     },
     {
         "role": "dev",
