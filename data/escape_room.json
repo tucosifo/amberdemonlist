@@ -8,6 +8,11 @@
   "showcase": "https://www.youtube.com/watch?v=sgVcQySuad4",
   "percentToQualify": 100,
   "records": [
-    
+      {
+          "user": "KasiaUWU",
+          "link": "https://www.youtube.com/watch?v=mfs5FahjFFI",
+          "percent": "100",
+          "hz": 240
+      }
   ]
 }
