@@ -295,6 +295,12 @@
             "link": "https://www.youtube.com/watch?v=dDLUWHIjPE8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "GD Doctor",
+            "link": "https://www.youtube.com/watch?v=0wf6TC7yiZ0&t=48s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
