@@ -849,7 +849,12 @@
             "link": "https://www.youtube.com/watch?v=wglDTLtAASA",
             "percent": 47,
             "hz": 360
+        },
+        {
+            "user": "Dueluxe",
+            "link": "https://youtu.be/uuVz72mkigA?feature=shared",
+            "percent": 100,
+            "hz": 165
         }
-            
     ]
 }
