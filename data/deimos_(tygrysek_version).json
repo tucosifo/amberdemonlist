@@ -123,6 +123,12 @@
             "link": "https://www.youtube.com/watch?v=9mieZWtW_RM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "LordOfTheGeese",
+            "link": "https://www.youtube.com/watch?v=uZrK_Bgns7A&ab_channel=LordOfTheGeese",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
