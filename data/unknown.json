@@ -219,8 +219,18 @@
             "link": "https://youtu.be/ZJV2sVeNle8",
             "percent": 100,
             "hz": 280
+        },
+        {
+            "user": "Kuroshika",
+            "link": "https://www.youtube.com/watch?v=9lmT_vdQaiA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TofuShepsky",
+            "link": "https://www.youtube.com/watch?v=JjKzd0m_VgQ",
+            "percent": 93,
+            "hz": 340
         }
-    
-            
     ]
 }
