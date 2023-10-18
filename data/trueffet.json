@@ -808,6 +808,12 @@
             "link": "https://www.youtube.com/watch?v=_2QHNAonfD0&ab_channel=LordOfTheGeese",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "TeQuin",
+            "link": "https://www.youtube.com/watch?v=lNlqQcCSq0A&ab_channel=TeQuin",
+            "percent": 100,
+            "hz": 360
         }
             
     ]
