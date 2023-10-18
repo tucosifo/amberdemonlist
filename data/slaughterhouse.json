@@ -285,12 +285,6 @@
             "hz": 288
         },
         {
-            "user": "Brian_Cheese",
-            "link": "https://www.youtube.com/watch?v=A9PsiByAzig",
-            "percent": 84,
-            "hz": 360
-        },
-        {
             "user": "Karmatas",
             "link": "https://www.youtube.com/watch?v=dDLUWHIjPE8",
             "percent": 100,
@@ -299,6 +293,12 @@
         {
             "user": "GD Doctor",
             "link": "https://www.youtube.com/watch?v=0wf6TC7yiZ0&t=48s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Brian_Cheese",
+            "link": "https://youtu.be/LZ53yCRFgRE",
             "percent": 100,
             "hz": 360
         }
