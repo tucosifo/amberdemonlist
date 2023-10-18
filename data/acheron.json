@@ -295,6 +295,12 @@
             "link": "https://www.youtube.com/watch?v=Jtqq7SEuYrI",
             "percent": 100,
             "hz": 360
-        }   
+        },
+        {
+            "user": "Geranika",
+            "link": "https://www.youtube.com/watch?v=OCzVu5el3DE",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
