@@ -836,7 +836,7 @@
         {
             "user": "Willow",
             "link": "https://www.youtube.com/watch?v=Eh7js0xCP_w&ab_channel=Willow2",
-            "percent" 100,
+            "percent": 100,
             "hz": 360
         }
     ]
