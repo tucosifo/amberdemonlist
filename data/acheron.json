@@ -295,6 +295,12 @@
             "link": "https://www.youtube.com/watch?v=OCzVu5el3DE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Tami",
+            "link": "https://youtu.be/CEpfvN6h_QQ",
+            "percent": 97,
+            "hz": 240
         }
     ]
 }
