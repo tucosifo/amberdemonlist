@@ -255,9 +255,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
-        }
-            
-        
-        
+        },
+        {
+            "user": "SkyGD",
+            "link": "https://youtu.be/WO40W6aQCkw",
+            "percent": 100,
+            "hz": 240
+        }    
     ]
 }
