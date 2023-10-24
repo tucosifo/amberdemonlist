@@ -292,8 +292,8 @@
         },
         {
             "user": "TofuShepsky",
-            "link": "https://www.youtube.com/watch?v=teL3Wq8z_Ak",
-            "percent": 64,
+            "link": "https://www.youtube.com/watch?v=K0cwtF8STPw",
+            "percent": 74,
             "hz": 340
         },
         {
@@ -306,6 +306,12 @@
             "user": "JnqBoo",
             "link": "https://drive.google.com/file/d/1rJitWB5mae1VXATEObG6mIAkHIvwLhgM/view?usp=drive_link",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Willow",
+            "link": "https://www.youtube.com/watch?v=7i4aVRNQK_U",
+            "percent" 88,
             "hz": 360
         }
     ]
