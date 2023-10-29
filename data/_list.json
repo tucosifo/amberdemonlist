@@ -8,6 +8,7 @@
     "corrupted_planet",
     "hard_machine",
     "frozen_cave",
+    "cosmic_cyclone_(apt)",
     "mutiny",
     "critical_heat",
     "aerial_gleam",
@@ -17,6 +18,7 @@
     "africa_circles",
     "oblivion",
     "solar_flare",
+    "kate",
     "random_access_memory",
     "terminux",
     "sigma",
@@ -155,7 +157,5 @@
     "factory_realm_x",
     "sinister_incision",
     "monstrosity",
-    "low_death",
-    "quantum_dynamix",
-    "unnerfed_allegiance"
+    "low_death"
 ]
