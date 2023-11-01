@@ -1515,6 +1515,12 @@
             "link": "https://www.youtube.com/watch?v=SgNOVW5c3mE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "KristGD",
+            "link": "https://youtu.be/jMYptI19oZM?si=51yi6yWj6crr0zLp",
+            "percent": 100,
+            "hz": 144
         }
     ] 
 }
