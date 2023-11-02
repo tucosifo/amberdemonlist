@@ -286,8 +286,8 @@
         },
         {
             "user": "TofuShepsky",
-            "link": "https://www.youtube.com/watch?v=K0cwtF8STPw",
-            "percent": 74,
+            "link": "https://youtu.be/HeN8R3_Nm0c",
+            "percent": 100,
             "hz": 340
         },
         {
@@ -313,12 +313,6 @@
             "link": "https://youtu.be/QNDor22EeOY",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "TofuShepsky",
-            "link": "https://youtu.be/HeN8R3_Nm0c",
-            "percent": 100,
-            "hz": 340
         }
     ]
 }
