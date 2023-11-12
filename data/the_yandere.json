@@ -255,6 +255,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "kri1s5",
+            "link": "https://www.youtube.com/watch?v=gi0tMChD_oQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
