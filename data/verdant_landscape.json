@@ -324,7 +324,12 @@
             "link": "https://youtu.be/zZR3C--OKug",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Manudash5",
+            "link": "https://www.youtube.com/watch?v=dUZnOhlJ2uU",
+            "percent": 100,
+            "hz": 144
         }
-        
     ]
 }
