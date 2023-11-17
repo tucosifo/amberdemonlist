@@ -297,6 +297,12 @@
             "link": "https://www.youtube.com/watch?v=l5q2waoaNek&ab_channel=LordOfTheGeese",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "DelessGM",
+            "link": "https://www.youtube.com/watch?v=ew-VywqgQjI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
