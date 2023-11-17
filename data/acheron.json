@@ -307,6 +307,12 @@
             "link": "https://www.youtube.com/watch?v=y6yg9gVNIPA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "夜彗凝",
+            "link": "https://www.bilibili.com/video/BV1FN411g7J5/?vd_source=d25c6da7052c61dbff405594b246044b",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
