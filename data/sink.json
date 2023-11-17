@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=wmdF8Al8jJ8",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "RG18",
+            "link": "https://www.youtube.com/watch?v=KtNJIM0_i54",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
