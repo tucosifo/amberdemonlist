@@ -69,12 +69,6 @@
         "name": "Pani",
         "link": "#"
     },
-
-    {
-        "role": "trial",
-        "name": "Nox",
-        "link": "#"
-    },
     {
         "role": "dev",
         "name": "Prometheus",
