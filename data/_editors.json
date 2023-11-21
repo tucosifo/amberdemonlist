@@ -50,6 +50,11 @@
         "link": "https://www.youtube.com/channel/UCV3Y98U07Opb6E9V__mrBNQ"
     },
     {
+        "role": "mod",
+        "name": "lermor",
+        "link": "#"
+    },
+    {
         "role": "trial",
         "name": "Willow",
         "link": "https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw"
@@ -69,11 +74,7 @@
         "name": "Nox",
         "link": "#"
     },
-    {
-        "role": "mod",
-        "name": "lermor",
-        "link": "#"
-    },
+
     {
         "role": "trial",
         "name": "snickles",
