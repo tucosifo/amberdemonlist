@@ -55,6 +55,11 @@
         "link": "#"
     },
     {
+        "role": "mod",
+        "name": "Wiktor",
+        "link": "https://www.youtube.com/channel/UCD9Q_xZmonsNc3FkQ_I1qTw"
+    },
+    {
         "role": "trial",
         "name": "Willow",
         "link": "https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw"
@@ -64,11 +69,7 @@
         "name": "Pani",
         "link": "#"
     },
-    {
-        "role": "mod",
-        "name": "Wiktor",
-        "link": "https://www.youtube.com/channel/UCD9Q_xZmonsNc3FkQ_I1qTw"
-    },
+
     {
         "role": "trial",
         "name": "Nox",
