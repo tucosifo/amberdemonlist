@@ -6,5 +6,12 @@
     "verifier": "Diverse",
     "verification": "https://youtu.be/fL_i8_f0CL4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/J8XLZh7TmWw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
