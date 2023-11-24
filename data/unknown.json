@@ -234,8 +234,8 @@
         },
         {
             "user": "Tami",
-            "link": "https://youtu.be/8cacNV0k_Bg",
-            "percent": 94,
+            "link": "https://www.youtube.com/watch?v=XIE7Lufjm1I",
+            "percent": 100,
             "hz": 240
         },
         {
@@ -243,12 +243,6 @@
             "link": "https://youtu.be/QPSnV2kNFqg?si=LYnyiEIuYRRcMTie",
             "percent": 67,
             "hz": 360
-        },
-        {
-            "user": "Tami",
-            "link": "https://www.youtube.com/watch?v=XIE7Lufjm1I",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
