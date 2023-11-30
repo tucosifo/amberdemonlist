@@ -60,6 +60,11 @@
         "link": "https://www.youtube.com/channel/UCD9Q_xZmonsNc3FkQ_I1qTw"
     },
     {
+        "role": "mod",
+        "name": "homegrowntag",
+        "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
