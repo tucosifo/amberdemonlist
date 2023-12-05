@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/IqK3courbcM?si=gE88zVcXJhrupEV7",
     "showcase": "",
     "percentToQualify": 66,
-    "records": []
+    "records": [
+        {
+            "user": "Willow",
+            "link": "https://www.youtube.com/watch?v=8GNzLi4Aaac",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
