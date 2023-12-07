@@ -343,6 +343,12 @@
             "link": "https://www.youtube.com/watch?v=bnZC5PsmRIY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Yanlici",
+            "link": "https://www.youtube.com/watch?v=7LVfkBEHRFI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
