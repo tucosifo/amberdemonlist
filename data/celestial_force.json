@@ -333,7 +333,14 @@
             "link": "https://www.youtube.com/watch?v=FesNGlENff8",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Se7enGMD",
+            "link": "https://youtu.be/FWyZPc2yIDE?si=PF1tH1rJ3TmU4M9a",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        },
     
     ]
 }
