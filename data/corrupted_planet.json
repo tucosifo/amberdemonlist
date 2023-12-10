@@ -31,7 +31,12 @@
             "link": "https://youtu.be/96vaeM7npI8",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Clare",
+            "link": "https://www.youtube.com/watch?v=Xe3u7PcorgI",
+            "percent": 100,
+            "hz": 240
         }
-        
     ]
 }
