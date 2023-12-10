@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=XiaYVI5ZeXY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "skyv",
+            "link": "https://youtu.be/ua0hdeX8kjQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
