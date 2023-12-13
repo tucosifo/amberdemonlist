@@ -13,6 +13,12 @@
           "link": "https://www.youtube.com/watch?v=mfs5FahjFFI",
           "percent": 100,
           "hz": 240
+      },
+      {
+          "user": "Zernias",
+          "link": "https://www.youtube.com/watch?v=3R2-RtVB1pc",
+          "percent": 100,
+          "hz": 360
       }
   ]
 }
