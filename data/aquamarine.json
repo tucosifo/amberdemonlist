@@ -218,6 +218,12 @@
             "link": "https://www.youtube.com/watch?v=tLgzjcdaQt4&ab_channel=GDFayo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "skyv",
+            "link": "https://youtu.be/ehIWfQlU5lI?si=0tS6NFjLOP9OZdka",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
