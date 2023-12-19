@@ -73,10 +73,23 @@
     align-items: center;
     gap: 1rem;
 }
+.page-list .level-container .level .packs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+}
+.page-list .level-container .level .packs .tag {
+    display: flex;
+    flex-shrink: 0;
+    background-size: 100% 100% !important;
+}
+.tag {
+    border-radius: 7px;
+}
 .page-list .level-container .level .records {
     table-layout: fixed;
 }
-.page-list .level-container .level .records tr td:not(:last-child) {
+.page-list .level-container .level .records tr td:not(:last-child) .tag{
     padding-right: 1rem;
 }
 .page-list .level-container .level .records .percent,
@@ -144,4 +157,11 @@
 .shitty .page-list .list .level.active button {
     background-color: transparent;
     color: orange;
+}
+
+.tag {
+    font-family: "Lexend Deca", sans-serif;
+    display:block;
+    border-radius: 14px;
+    padding: 7px;
 }
