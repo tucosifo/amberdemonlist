@@ -1,9 +1,4 @@
 .nav {
-    --color-background: white;
-    --color-on-background: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white;
-
     display: flex;
     column-gap: 2rem;
 }
