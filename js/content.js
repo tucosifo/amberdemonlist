@@ -171,6 +171,9 @@ export async function fetchPackLevels(packname) {
                         {
                             level,
                             path,
+                            records: level.records.sort(
+                                (a, b) => b.percent - a.percent,
+                            ),
                         },
                         null,
                     ];
