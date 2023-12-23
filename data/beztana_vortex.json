@@ -170,6 +170,12 @@
             "link": "https://www.youtube.com/watch?v=lLX0vO9eWaY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Liz",
+            "link": "https://www.youtube.com/watch?v=dPVSCTX9wb8",
+            "percent": 100,
+            "hz": 360,
         }
     ]
 }
