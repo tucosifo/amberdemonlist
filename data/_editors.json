@@ -36,6 +36,11 @@
     },
     {
         "role": "mod",
+        "name": "lermor",
+        "link": "#"
+    },
+    {
+        "role": "mod",
         "name": "lucap123",
         "link": "https://www.youtube.com/@lucap123gd8"
     },
@@ -43,16 +48,6 @@
         "role": "mod",
         "name": "srus",
         "link": "https://www.youtube.com/channel/UCZWCsnRMKs7VSyO094YeyJw"
-    },
-    {
-        "role": "mod",
-        "name": "urban",
-        "link": "https://www.youtube.com/channel/UCV3Y98U07Opb6E9V__mrBNQ"
-    },
-    {
-        "role": "mod",
-        "name": "lermor",
-        "link": "#"
     },
     {
         "role": "mod",
