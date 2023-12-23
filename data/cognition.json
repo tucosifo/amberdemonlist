@@ -54,6 +54,12 @@
             "link": "https://www.youtube.com/watch?v=QYFsv3ptKgw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "lonifer",
+            "link": "https://www.youtube.com/watch?v=HdH9R6pskbs",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
