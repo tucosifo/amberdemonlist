@@ -409,6 +409,12 @@
             "link": "https://www.youtube.com/watch?v=FW8KQpkqfjA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "hizo",
+            "link": "https://youtu.be/UW_AYZav_M8",
+            "percent": 76,
+            "hz": 360
         }
     ]
 }
