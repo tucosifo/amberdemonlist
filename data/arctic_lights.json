@@ -259,6 +259,13 @@
             "link": "https://www.youtube.com/watch?v=YLEi1oMyaOY",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "ATaMAn",
+            "link": "https://www.youtube.com/watch?v=h5kps2pmg2U",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
         }
     ]
 }
