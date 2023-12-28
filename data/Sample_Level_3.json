@@ -1,12 +1,13 @@
 {
     "id": 11,
-    "name": "Override",
-    "author": "PokeeKian",
+    "name": "Cluster Clunk",
+    "author": "kek",
     "creators": [],
-    "verifier": "PokeeKian",
+    "verifier": "kek",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "62",
+    "percentToQualify": "52",
     "password": "Medium Demon",
     "records": [
+        
     ]
 }
