@@ -13,6 +13,24 @@
             "link": "",
             "percent": 100,
             "hz": "?"
-        }
+        },
+        {
+            "user": "Tucosifo",
+            "link": "https://www.youtube.com/watch?v=fu3u6IJShoY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Tucosifo",
+            "link": "https://www.youtube.com/watch?v=fu3u6IJShoY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "PokeeKian",
+            "link": "https://cdn.discordapp.com/attachments/1189583909218947225/1189729462980464670/MedalTVScreenRecording20231228003844.mp4?ex=659f38e8&is=658cc3e8&hm=4771d2b1cea5f03175b726439748167ad527e867ba18acf3b22275007fdeb9ae&",
+            "percent": 100,
+            "hz": 120
+        },
     ]
 }
