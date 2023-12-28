@@ -1,0 +1,18 @@
+{
+    "id": 8,
+    "name": "Epico Challenge",
+    "author": "ZuddyBoi",
+    "creators": "ZuddyBoi", "kek", "BunkerDash"
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=VoYrAXuL4E0",
+    "percentToQualify": 54,
+    "password": "Medium Demon",
+    "records": [
+        {
+            "user": "Tucosifo",
+            "link": "https://www.youtube.com/watch?v=VoYrAXuL4E0",
+            "percent": 100,
+            "hz": 144
+        },
+    ]
+}
