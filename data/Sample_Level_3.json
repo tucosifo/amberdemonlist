@@ -8,6 +8,11 @@
     "percentToQualify": "52",
     "password": "Medium Demon",
     "records": [
-        
+        {
+            "user": "Tucosifo",
+            "link": "https://www.youtube.com/watch?v=gk0I_P2mE3o",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
