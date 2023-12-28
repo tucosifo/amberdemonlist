@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Easy Demon",
     "records": [
+        {
+            "user": "Toast",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1190076919786520707/image.png?ex=65a07c80&is=658e0780&hm=5316889f80d035981c59f837dda34cf2775ec36fc2fc6547ddd9aa158ce74744&",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
