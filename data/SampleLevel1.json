@@ -1,8 +1,8 @@
 {
     "id": 5,
     "name": "Snake Dance",
-    "author": "silvernake",
-    "creators": "silversnake",
+    "author": "silversnake",
+    "creators": ["silversnake"],
     "verifier": "silversnake",
     "verification": "https://www.youtube.com/watch?v=fu3u6IJShoY",
     "percentToQualify": 54,
