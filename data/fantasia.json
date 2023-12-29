@@ -1,0 +1,18 @@
+{
+    "id": 64,
+    "name": "fantasia",
+    "author": "silversnake",
+    "creators": [],
+    "verifier": "silversnake",
+    "verification": "https://youtu.be/qVfBR2DFKFc",
+    "percentToQualify": "45",
+    "password": "Insane Demon",
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/qVfBR2DFKFc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
