@@ -1,0 +1,24 @@
+{
+    "id": 59,
+    "name": "Mysterion be waving",
+    "author": "Mysterion",
+    "creators": [],
+    "verifier": "Mysterion",
+    "verification": "https://www.youtube.com/watch?v=17a74iMi00M&ab_channel=Mysteriongamer",
+    "percentToQualify": "65",
+    "password": "Easy Demon",
+    "records": [
+        {
+            "user": "Guac",
+            "link": "https://www.youtube.com/watch?v=AUxuigWXj0M&ab_channel=Tucosifo%28GD%29",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ZuddyBoi",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1190094465839398922/Screen_Recording_20231229_014751_Amber_GDPS.mp4?ex=65a08cd7&is=658e17d7&hm=233c103fa28aed55ab0be8376f1c09ba7ca5a6ac7b77c707a5cd565521ccbe17&",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
