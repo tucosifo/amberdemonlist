@@ -8,5 +8,11 @@
     "percentToQualify": 55,
     "password": "Medium Demon",
     "records": [
+        {
+            "user": "Mysterion",
+            "link": "https://cdn.discordapp.com/attachments/1190362853979463712/1190366152375934987/Screenshot_147.png?ex=65a189de&is=658f14de&hm=eabae6d5e31e26e105e7b64a3ba51d893d1a998ed23ae8a03299c103959a6545&",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
