@@ -1,0 +1,18 @@
+{
+    "id": 56,
+    "name": "Flutterbutter",
+    "author": "BunkerDash",
+    "creators": [],
+    "verifier": "BunkerDash",
+    "verification": "https://youtu.be/XUfzZVLUXms?si=IKZywyrH-6zSK5jr",
+    "percentToQualify": 53,
+    "password": "Insane Demon",
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/MDBYDYIQORw",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
