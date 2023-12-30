@@ -1,0 +1,18 @@
+{
+    "id": 72,
+    "name": "Glitch in the Storm",
+    "author": "BunkerDash",
+    "creators": [],
+    "verifier": "BunkerDash",
+    "verification": "https://www.youtube.com/watch?v=YT1p1QSOX0g",
+    "percentToQualify": 100,
+    "password": "Extreme Demon",
+    "records": [
+        {
+            "user": "real ones know",
+            "link": "https://youtu.be/LCsloWc6NeM?feature=shared&t=41",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
