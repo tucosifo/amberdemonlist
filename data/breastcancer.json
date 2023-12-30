@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Medium Demon",
     "records": [
+        {
+            "user": "real ones know",
+            "link": "https://youtu.be/MHK-kLvnPww",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
