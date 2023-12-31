@@ -8,5 +8,11 @@
     "percentToQualify": 60,
     "password": "Hard Demon",
     "records": [
+        {
+            "user": "PokeeKian",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1191104768442105897/image.png?ex=65a439c2&is=6591c4c2&hm=1be4f434c6763fa5393001b185af30b6679b14b66c8d15f44c37e4b32670fdf9&",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
