@@ -8,5 +8,11 @@
     "percentToQualify": 30,
     "password": "Extreme Demon",
     "records": [
+        {
+            "user": "YeetTheTable",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1191072230252228608/1231_3.mp4?ex=65a41b74&is=6591a674&hm=72caddc4ec733980bd40412ccece899acd1068fb5ca32c55f90d777ec7ab9156&",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
