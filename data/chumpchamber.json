@@ -8,5 +8,17 @@
     "percentToQualify": 50,
     "password": "Medium Demon",
     "records": [
+        {
+            "user": "Lunar79Au",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1190815548670484500/image.png?ex=65a32c67&is=6590b767&hm=5faa90c2611a54d68824267480e987b6d9c7b0c7db9c0cf3af5e5b24591cab54&",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "PokeeKian",
+            "link": "https://cdn.discordapp.com/attachments/1190690951887335505/1190815019177353236/image.png?ex=65a32be8&is=6590b6e8&hm=828f4dbd079f925afb0818a0522735b327f8a19a6e7c844dabb50d5de78a78cb&",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
