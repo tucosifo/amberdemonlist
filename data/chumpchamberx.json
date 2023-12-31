@@ -1,6 +1,6 @@
 {
     "id": 90,
-    "name": "Chump Chamber",
+    "name": "Chump Chamber X",
     "author": "kek",
     "creators": [],
     "verifier": "kek",
@@ -19,6 +19,12 @@
             "link": "https://cdn.discordapp.com/attachments/1190690951887335505/1190815019177353236/image.png?ex=65a32be8&is=6590b6e8&hm=828f4dbd079f925afb0818a0522735b327f8a19a6e7c844dabb50d5de78a78cb&",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Rae",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1190809876130185216/image.png?ex=65a3271e&is=6590b21e&hm=93033314e8943025b8cad114ab867cddbbcf8657e7ac7b809b997fbd970876f4&",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
