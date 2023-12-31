@@ -8,5 +8,11 @@
     "percentToQualify": 52,
     "password": "Hard Demon",
     "records": [
+        {
+            "user": "real ones know",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1190950884004347996/image.png?ex=65a3aa71&is=65913571&hm=1a47e57bb8a08ca4c7b77fff97be29064856071a41513e8ce9dd18b094ef426a&",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
