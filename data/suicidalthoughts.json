@@ -31,6 +31,12 @@
             "link": "https://cdn.discordapp.com/attachments/1189586278417715301/1190796844234711132/1230.mp4?ex=65a31afb&is=6590a5fb&hm=76ea19479af8a264e2a631d7d05b0b5008174510f5dd7292184c40a5d9c0c7bb&",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Rae",
+            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1190809875752689704/image.png?ex=65a3271e&is=6590b21e&hm=d01152f81546f74e2f6d379cc97998bf0d838c49e4df538cc4164f13b8e4c974&",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
