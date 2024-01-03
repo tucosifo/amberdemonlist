@@ -8,5 +8,11 @@
     "percentToQualify": 57,
     "password": "Extreme Demon",
     "records": [
+        {
+            "user": "real ones know",
+            "link": "https://youtu.be/A8BVaYAmaUo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
