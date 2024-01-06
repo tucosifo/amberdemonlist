@@ -49,6 +49,12 @@
             "link": "https://cdn.discordapp.com/attachments/1190827589460299826/1191811954235428885/image.png?ex=65a6cc60&is=65945760&hm=e3a7aae87d0bedaed8abfc93e970e512af56f534bd25eeaaa5ead5979c51c38d&",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "BigRator",
+            "link": "https://youtu.be/keLPqeuF4wM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
