@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=hiDFFlZ2xI4&ab_channel=Mysteriongamer",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "BigRator",
+            "link": "https://youtu.be/keLPqeuF4wM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
