@@ -9,22 +9,10 @@
     "password": "Extreme Demon",
     "records": [
         {
-            "user": "real ones know",
-            "link": "https://youtu.be/A8BVaYAmaUo",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "BigRator",
             "link": "https://youtu.be/keLPqeuF4wM",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "YeetTheTable",
-            "link": "https://cdn.discordapp.com/attachments/1189782675666513980/1192491382116450314/Styx.mp4?ex=65a94524&is=6596d024&hm=95fd9c779c780da882c4d59513b6d4b6c612b76516451bfa69476af45b4b9871&",
-            "percent": 100,
-            "hz": 144
         }
     ]
 }
