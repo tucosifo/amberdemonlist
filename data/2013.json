@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Easy Demon",
     "records": [
+        {
+            "user": "NotKrmaL",
+            "link": "https://youtu.be/rE0NHsWqXIQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
