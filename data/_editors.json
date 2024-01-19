@@ -10,15 +10,20 @@
         "link": "https://www.twitch.tv/cristaline_zud"
     },
         {
-        "role": "admin",
+        "role": "mod",
         "name": "Rae",
         "link": "https://www.youtube.com/channel/UC2HOxc11lGMnB28rZbznkzA"
     },
         {
-        "role": "admin",
+        "role": "mod",
         "name": "LilBro",
         "link": "https://www.youtube.com/channel/UCtWqQ8a-X-dC6UZza_26iUw"
     },
+        {
+        "role": "mod",
+        "name": "LilBro",
+        "link": "https://www.youtube.com/channel/UCtWqQ8a-X-dC6UZza_26iUw"
+    }
         {
         "role": "dev",
         "name": "Tucosifo",
