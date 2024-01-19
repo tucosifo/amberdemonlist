@@ -1,12 +1,12 @@
 {
-    "id": 95,
-    "name": "cuh",
-    "author": "real ones know",
+    "id": 1000,
+    "name": "name",
+    "author": "authir",
     "creators": [],
-    "verifier": "real ones know",
-    "verification": "https://youtu.be/fwa4mVo9QaA",
-    "percentToQualify": 57,
-    "password": "Extreme Demon",
+    "verifier": "verifier",
+    "verification": "https://youtu.be/",
+    "percentToQualify": 10,
+    "password": "??? Demon",
     "records": [
     ]
 }
