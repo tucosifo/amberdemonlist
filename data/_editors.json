@@ -10,20 +10,30 @@
         "link": "https://www.twitch.tv/cristaline_zud"
     },
         {
-        "role": "mod",
+        "role": "admin",
         "name": "Rae",
         "link": "https://www.youtube.com/channel/UC2HOxc11lGMnB28rZbznkzA"
     },
         {
-        "role": "mod",
+        "role": "admin",
         "name": "LilBro",
         "link": "https://www.youtube.com/channel/UCtWqQ8a-X-dC6UZza_26iUw"
     },
         {
-        "role": "mod",
-        "name": "LilBro",
-        "link": "https://www.youtube.com/channel/UCtWqQ8a-X-dC6UZza_26iUw"
-    }
+        "role": "admin",
+        "name": "BigRator",
+        "link": "https://www.youtube.com/@bigratorgmd"
+    },
+        {
+        "role": "admin",
+        "name": "BunkerDash",
+        "link": "https://www.youtube.com/@bunkerdash3321"
+    },
+        {
+        "role": "admin",
+        "name": "TheyamsterPLAYZ",
+        "link": "https://www.youtube.com/channel/UC9ZfxTPWp8SqmeQ_U7equfQ"
+    },
         {
         "role": "dev",
         "name": "Tucosifo",
