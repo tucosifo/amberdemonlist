@@ -11,11 +11,6 @@
     },
         {
         "role": "admin",
-        "name": "Rae",
-        "link": "https://www.youtube.com/channel/UC2HOxc11lGMnB28rZbznkzA"
-    },
-        {
-        "role": "admin",
         "name": "LilBro",
         "link": "https://www.youtube.com/channel/UCtWqQ8a-X-dC6UZza_26iUw"
     },
@@ -33,6 +28,11 @@
         "role": "admin",
         "name": "TheyamsterPLAYZ",
         "link": "https://www.youtube.com/channel/UC9ZfxTPWp8SqmeQ_U7equfQ"
+    },
+        {
+        "role": "admin",
+        "name": "orangethecolor",
+        "link": "https://www.youtube.com/channel/UCh18NLhHJI5F7gjLViYJqSQ"
     },
         {
         "role": "dev",
