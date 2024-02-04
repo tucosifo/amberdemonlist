@@ -8,5 +8,11 @@
     "percentToQualify": 53,
     "password": "Extreme Demon",
     "records": [
+         {
+            "user": "BigRator",
+            "link": "https://discord.com/channels/1189583909218947222/1189782675666513980/1199908356731707462",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
