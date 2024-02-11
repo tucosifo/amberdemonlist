@@ -8,5 +8,12 @@
     "percentToQualify": 55,
     "password": "Insane Demon",
     "records": [
+        {
+            "user": "BigRator",
+            "link": "https://youtu.be/HEXUGRCMFKQ",
+            "percent": 100,
+            "hz": 240
+        }
+
     ]
 }
