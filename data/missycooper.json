@@ -6,7 +6,13 @@
     "verifier": "BigRator",
     "verification": "https://youtu.be/fwegy0bpiwE",
     "percentToQualify": 65,
-    "password": "Insane Demon",
+    "password": "Extreme Demon",
     "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/MnespRSyl38",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
