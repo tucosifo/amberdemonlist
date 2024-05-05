@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=Fev-BfNwddg",
             "percent": 100,
             "hz": 360
+       },
+        {
+            "user": "Zestii",
+            "link": "https://www.youtube.com/watch?v=wx0XCpGKFCU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
